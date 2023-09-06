@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T06:12:35.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kwXQK74drTFdm7H-2BkL" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T06:13:02.212Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HQJxKtOS1oouRcSfpEPb" version="21.6.8" type="github">
   <diagram name="第 1 页" id="aw-wVuxeQRiTpPF4VpSv">
     <mxGraphModel dx="1687" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -115,10 +115,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-22" value="建设工程（含临时建设）规划许可证核发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1280" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-23" value="规划验收条件核实证明核发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1180" width="120" height="60" as="geometry" />
+          <mxGeometry x="1060" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-25" target="GNi9PzP3OeLfMleuXuzR-88">
           <mxGeometry relative="1" as="geometry">
@@ -163,16 +163,16 @@
           <mxGeometry x="720" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-47" value="供地出让方案划拨转出让-企业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-48" value="供地出让方案延长出让年限-企业" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-49" value="供地出让方案划拨转出让-个人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-50" value="供地出让方案延长出让年限-个人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="1270" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-54" target="GNi9PzP3OeLfMleuXuzR-73">
           <mxGeometry relative="1" as="geometry" />
