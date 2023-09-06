@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T06:13:11.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="tFrBbeCT1O4hzVGGIrWg" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T06:19:06.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="RZQK-NTdPY6kshqkReN7" version="21.6.8" type="github">
   <diagram name="第 1 页" id="aw-wVuxeQRiTpPF4VpSv">
     <mxGraphModel dx="1687" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -299,6 +299,121 @@
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-94" value="划拨国有建设用地颁发划拨决定书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-99" target="GNi9PzP3OeLfMleuXuzR-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-99" value="建设项目用地预审与选址意见书&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005694" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-103" target="GNi9PzP3OeLfMleuXuzR-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-103" target="GNi9PzP3OeLfMleuXuzR-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-103" target="GNi9PzP3OeLfMleuXuzR-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-103" value="规划技术指标&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005702" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-105" target="GNi9PzP3OeLfMleuXuzR-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-105" value="国有建设用地协议出让签订合同&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005711" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-106" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-107" target="GNi9PzP3OeLfMleuXuzR-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="2460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-107" value="建设工程设计方案审查（修规）&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005718" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="2130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-109" target="GNi9PzP3OeLfMleuXuzR-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-109" value="建设工程（含临时建设）规划许可证核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005712" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-110" value="规划验收条件核实证明核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005722" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-112" target="GNi9PzP3OeLfMleuXuzR-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="2070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-112" value="供地划拨方案&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005736" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-114" target="GNi9PzP3OeLfMleuXuzR-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-114" value="供地出让方案-协议出让&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005730" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-116" target="GNi9PzP3OeLfMleuXuzR-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="2280" />
+              <mxPoint x="950" y="2320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-116" value="供地方案-公开出让（非工业）&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005705" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-118" target="GNi9PzP3OeLfMleuXuzR-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-118" value="国有建设用地招拍挂签订合同&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005710" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-120" target="GNi9PzP3OeLfMleuXuzR-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="2360" />
+              <mxPoint x="950" y="2320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-120" value="供地方案-公开出让（工业）&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005725" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-121" value="供地出让方案划拨转出让-企业&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005732" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-122" value="供地出让方案延长出让年限-企业&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005735" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-123" value="供地出让方案划拨转出让-个人&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005731" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-124" value="供地出让方案延长出让年限-个人&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005734" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="2430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-126" target="GNi9PzP3OeLfMleuXuzR-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-126" value="建设用地规划许可证核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005651" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-128" target="GNi9PzP3OeLfMleuXuzR-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-128" value="建设用地规划许可证核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005651" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-130" target="GNi9PzP3OeLfMleuXuzR-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-130" value="划拨国有建设用地颁发划拨决定书&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005707" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
