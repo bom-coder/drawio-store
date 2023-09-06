@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T06:19:20.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="AALROZHy5e6JQBq57696" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T06:20:24.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SgaWhH-Msjm85m487cKA" version="21.6.8" type="github">
   <diagram name="第 1 页" id="aw-wVuxeQRiTpPF4VpSv">
     <mxGraphModel dx="1687" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-3" value="预审与选址" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-5" target="XbH7AC_qgNwCNuD4yxMm-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-5" value="&#xa;土地转征&#xa;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-7" target="XbH7AC_qgNwCNuD4yxMm-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-7" value="&#xa;划拨供地方案报批&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-9" target="XbH7AC_qgNwCNuD4yxMm-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -31,19 +31,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-9" value="&#xa;土地划拨决定书&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-16" target="XbH7AC_qgNwCNuD4yxMm-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-16" value="&#xa;规划条件&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="610" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-18" target="XbH7AC_qgNwCNuD4yxMm-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-18" value="&#xa;土地招拍挂&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-19" target="XbH7AC_qgNwCNuD4yxMm-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,28 +54,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-19" value="&#xa;土地出让合同&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-20" target="XbH7AC_qgNwCNuD4yxMm-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-20" value="&#xa;用地规划许可&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-26" target="XbH7AC_qgNwCNuD4yxMm-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-26" value="&#xa;设计方案审查&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1230" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XbH7AC_qgNwCNuD4yxMm-29" target="XbH7AC_qgNwCNuD4yxMm-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-29" value="&#xa;工程规划许可 &#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XbH7AC_qgNwCNuD4yxMm-31" value="&#xa;竣工规划核实&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="810" y="520" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-2" target="GNi9PzP3OeLfMleuXuzR-25">
           <mxGeometry relative="1" as="geometry" />
@@ -183,11 +183,21 @@
         <mxCell id="GNi9PzP3OeLfMleuXuzR-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-91" target="GNi9PzP3OeLfMleuXuzR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-134" value="出让" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GNi9PzP3OeLfMleuXuzR-97">
+          <mxGeometry x="0.0206" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-91" value="建设用地规划许可证核发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-94" target="GNi9PzP3OeLfMleuXuzR-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-133" value="划拨" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GNi9PzP3OeLfMleuXuzR-96">
+          <mxGeometry x="-0.1534" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-94" value="划拨国有建设用地颁发划拨决定书" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="790" width="120" height="60" as="geometry" />
@@ -298,11 +308,21 @@
         <mxCell id="GNi9PzP3OeLfMleuXuzR-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-128" target="GNi9PzP3OeLfMleuXuzR-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-136" value="出让" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GNi9PzP3OeLfMleuXuzR-127">
+          <mxGeometry x="-0.013" y="-2" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-128" value="建设用地规划许可证核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005651" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GNi9PzP3OeLfMleuXuzR-130" target="GNi9PzP3OeLfMleuXuzR-107">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-135" value="划拨" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GNi9PzP3OeLfMleuXuzR-129">
+          <mxGeometry x="-0.0662" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-130" value="划拨国有建设用地颁发划拨决定书&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005707" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1300" y="1330" width="120" height="60" as="geometry" />
