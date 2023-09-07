@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T04:15:06.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="cDNnRZ60H2b8w87Sm8be" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T06:13:57.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="orpYADaPh3o58o_Jb28Q" version="21.7.2" type="github">
   <diagram name="第 1 页" id="aw-wVuxeQRiTpPF4VpSv">
-    <mxGraphModel dx="4388" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="3773" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,11 +244,11 @@
         <mxCell id="GNi9PzP3OeLfMleuXuzR-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" parent="1" source="GNi9PzP3OeLfMleuXuzR-109" target="GNi9PzP3OeLfMleuXuzR-110" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GNi9PzP3OeLfMleuXuzR-109" value="建设工程（含临时建设）规划许可证核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005712" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="1790" y="1810" width="120" height="60" as="geometry" />
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-109" value="建设工程（含临时建设）规划许可证核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005712&lt;br&gt;SX2023002586&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1730" y="1790" width="280" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GNi9PzP3OeLfMleuXuzR-110" value="规划验收条件核实证明核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005722" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1810" width="120" height="60" as="geometry" />
+        <mxCell id="GNi9PzP3OeLfMleuXuzR-110" value="规划验收条件核实证明核发&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;BM00005722&lt;br&gt;SX2023002588" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="1310" y="1790" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GNi9PzP3OeLfMleuXuzR-111" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;strokeColor=#d79b00;fontColor=default;fillColor=#ffe6cc;" parent="1" source="GNi9PzP3OeLfMleuXuzR-112" target="GNi9PzP3OeLfMleuXuzR-126" edge="1">
           <mxGeometry relative="1" as="geometry">
