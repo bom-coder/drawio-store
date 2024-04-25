@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T03:30:00.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="F7mZ55_Xz2rcsIxjTcYn" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T03:30:08.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bwYNdevXDKpETGHTH1xx" version="24.3.0" type="github">
   <diagram name="第 1 页" id="zQZG--11BPao8n277Qld">
     <mxGraphModel dx="1062" dy="3881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -53,9 +53,6 @@
         </mxCell>
         <mxCell id="-XBeW4YqXyLTG1QlE1-Z-36" value="&lt;span style=&quot;font-size: 11px; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;game_db_name = taiwan_cain_2nd&lt;/span&gt;&lt;div style=&quot;border-color: var(--border-color); font-size: 11px; text-wrap: nowrap;&quot;&gt;auction_db_name = taiwan_cain_auction_cera&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="-30" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="-XBeW4YqXyLTG1QlE1-Z-37" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 0px; text-wrap: nowrap;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;rgba(0, 0, 0, 0)&quot;&gt;guild&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
-          <mxGeometry x="790" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
